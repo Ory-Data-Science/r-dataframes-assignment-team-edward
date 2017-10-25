@@ -1,0 +1,3 @@
+On top of checking the output, I know that this code is fixed because it all ran with no errors. I checked by putting the print command before the code.
+
+If I was writing code that was thousands of lines long, I would check as I went. When I finished a command I would run it to make sure it ran flawlessly rather than doing it all, running it, finding out something didn't work, then trying to find where in my code I messed up.
