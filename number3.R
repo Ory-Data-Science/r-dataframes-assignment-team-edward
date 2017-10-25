@@ -1,0 +1,4 @@
+read.csv("shrub-volume-experiment.csv")
+by_site <- group_by(shrub, site)
+avg_height <- summarize(by_site, avg_height = mean(height))
+print(avg_height)
